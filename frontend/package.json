@@ -31,7 +31,7 @@
     "gatsby-plugin-sharp": "^2.8.0",
     "gatsby-source-drupal": "^3.10.1",
     "gatsby-source-filesystem": "^2.5.0",
-    "gatsby-source-mongodb": "^2.6.0",
+    "gatsby-source-mongodb": "^2.10.0",
     "gatsby-transformer-csv": "^2.8.0",
     "gatsby-transformer-sharp": "^2.6.0",
     "jquery": "^3.5.1",
