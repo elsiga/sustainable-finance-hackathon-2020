@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css' // load Bootstrap CSS
 //import 'bootstrap/dist/js/bootstrap.bundle.min' // enable dropdown menu (JS-related BS functionalities)
 import { graphql, useStaticQuery } from 'gatsby'
 import styles from './index.module.scss'
+import AdSense from "../components/adsense/AdSense";
 
 export default () => {
   // load csv data with graphql
@@ -54,6 +55,7 @@ export default () => {
       <Layout>
         <main>
           <h1>Fun Hackathon Project</h1>
+          <AdSense client="ca-pub-2627036954270406" slot="9590907573" />
           <p>
             We calculated a mock score as a means to measure social diversity in
             companies, i.e. the proportion of women in different industries and
